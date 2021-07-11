@@ -5,7 +5,7 @@ class HelloWorld {
     int[] allnums={4,3,5,6,1};
       
     if(smallestduplicate(allnums) != -1)
-        Console.WriteLine(smallestduplicate(allnums));
+        //Console.WriteLine(smallestduplicate(allnums));
     else
         Console.WriteLine("no duplicate number");
   }
